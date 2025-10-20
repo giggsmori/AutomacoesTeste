@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Guilherme mori magaçhaes
+# 👋 Olá, eu sou Guilherme mori magalhães
 
 🎯 **QA Engineer | Automação de Testes | Ruby | Python | JavaScript | Cypress | Playwright | Cucumber**
 
