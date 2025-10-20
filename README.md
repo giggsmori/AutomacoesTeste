@@ -20,34 +20,6 @@ Atualmente foco em criar pipelines de testes de ponta a ponta que garantem produ
 
 ---
 
-## 📁 Projetos em Destaque
-
-### 🧱 [Ruby + Capybara + Cucumber – E-commerce Signup/Login](https://github.com/seuusuario/ruby-capybara-cucumber-ecommerce)
-Automação de cadastro e login em site de compras (AutomationExercise).  
-Fluxos: cadastro → logout → login → verificação.  
-- Testes BDD com **Cucumber**  
-- Page Objects em Ruby  
-- Suporte a execução **headless** e **interativa**
-
----
-
-### 🌐 [Cypress (TypeScript) – E-commerce Signup/Login](https://github.com/seuusuario/cypress-ecommerce-ts)
-Automação de front-end usando **Cypress 13+** e **TypeScript**.  
-- Estrutura modular (`cypress/e2e`, `fixtures`, `support`)  
-- Criação de conta + login + logout  
-- Execução interativa e headless
-
----
-
-### 🐍 [Playwright (Python) – E-commerce Signup/Login](https://github.com/seuusuario/playwright-python-ecommerce)
-Automação E2E com **Playwright + Pytest**, cobrindo o mesmo fluxo:  
-- Criação de novo utilizador  
-- Logout e login novamente  
-- Uso de **Faker** para dados dinâmicos  
-- Estrutura clara e reusável para portfólio
-
----
-
 ## 🧩 Metodologia
 > "Testar é garantir confiança. Automação é o caminho para a consistência."
 
@@ -58,11 +30,35 @@ Automação E2E com **Playwright + Pytest**, cobrindo o mesmo fluxo:
 
 ---
 
-## 📫 Contato
-📍 Base: Portugal (aberto a trabalho remoto)  
-✉️ **[seuemail@gmail.com]**  
-💼 [LinkedIn](https://www.linkedin.com/in/seulinkedin)  
-💻 [GitHub](https://github.com/seuusuario)
+## 🎯 Objetivo
+Demonstrar proficiência em automação de testes E2E utilizando diferentes stacks e frameworks populares do mercado.  
+Cada projeto foi estruturado seguindo boas práticas de:
+- Page Object Model (POM)
+- BDD (Cucumber/Gherkin)
+- Geração de dados dinâmicos (Faker)
+- Execução local e headless
+- Facilidade de integração com CI/CD
+
+---
+
+## 🚀 Execução Rápida
+
+| Stack | Executar |
+|-------|-----------|
+| 🧱 **Ruby** | `bundle exec cucumber` |
+| 🌐 **Cypress** | `npx cypress run` |
+| 🐍 **Playwright** | `pytest -v --headed` |
+
+---
+
+## 👨‍💻 Autor
+**Guilherme Mori Magalhães**  
+💼 QA & Test Automation Engineer  
+🌍 [GitHub](https://github.com/giggsmori/AutomacoesTeste)
+
+---
+
+📢 _Este portfólio foi desenvolvido com propósito didático e demonstração de habilidades técnicas em automação de testes._
 
 ---
 
